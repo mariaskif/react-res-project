@@ -1,0 +1,3 @@
+export const items=[{id:Math.random(),title:"كاتو بالشوكلا",description:" كاتو بالشوكلا مغطس بالكيندر اربع طبقات ول8 اشخاص",price:"50ليرة",img:"p2.jfif",category:"شوكلا"},
+{id:Math.random(),title:"بوظة ",description:" بوظة  مغطس بالكيندر اربع طبقات ول8 اشخاص",price:"70ليرة ",img:"p2.jfif",category:"بوظة"},
+{id:Math.random(),title:"بوظة ",description:" شوكلا  مغطس بالكيندر اربع طبقات ول8 اشخاص",price:"70ليرة ",img:"p2.jfif",category:"شوكلا"}]
